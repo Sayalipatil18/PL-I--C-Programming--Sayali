@@ -3,7 +3,6 @@ Program (19) -> Write a program to accept the elements of a one-dimensional arra
 Solution (1): Using for loop 
 */
 
-
 #include <stdio.h>
 int main()
 {
