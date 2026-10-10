@@ -1,7 +1,6 @@
 /*
 Program (24) -> Write a program to read two matrices of the same order, perform matrix addition,
 and display the resultant matrix using a two-dimensional array.
-
 Solution (3): Using do-while loop
 */
 
