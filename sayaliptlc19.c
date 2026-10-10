@@ -5,7 +5,6 @@ Solution (1): Using for loop
 
 
 #include <stdio.h>
-
 int main()
 {
     int arr[5], i, sum = 0;
