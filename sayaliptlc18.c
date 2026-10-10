@@ -4,7 +4,6 @@ Solution (2): User-defined program + Using all types of loops + Implicit way to 
 */
 
 #include <stdio.h>
-
 int main()
 {
     int var1[5];
