@@ -4,7 +4,6 @@ Solution (2): Using while loop
 */
 
 #include <stdio.h>
-
 int main()
 {
     int arr[5], i = 0, sum = 0;
